@@ -71,7 +71,7 @@ docker run -p 8501:8501 polyp_segmentation_app
 
 U-Net Architecture for segmentation
 
-Combined Loss (Dice + Focal) for class imbalance
+Combined Loss (Dice + Focal) to handle class imbalance
 
 Metrics: IoU & Dice
 
@@ -83,6 +83,7 @@ Regularization: Dropout, BatchNormalization
 
 📊 Demo
 Here’s the user interface where a colonoscopy image is uploaded and the segmented polyp result is displayed:  
+
 ![UI Demo](assets/polyp_seg_result.png)
 
 
