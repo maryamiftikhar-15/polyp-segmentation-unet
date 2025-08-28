@@ -44,10 +44,10 @@ polyp_segmentation/
 ```
 
 🚀 How to Run
+
 🔹 1. Train the Model
 cd train
 python train.py
-
 
 This will save the trained model in model/best_unet_model_v1.h5.
 
