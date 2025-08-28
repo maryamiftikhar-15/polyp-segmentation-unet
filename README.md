@@ -60,9 +60,11 @@ This will open the app in your browser (default: http://localhost:8501).
 
 🔹 3. Run with Docker
 1. Build the image
+   
 docker build -t polyp_segmentation_app .
 
 2. Run the container
+   
 docker run -p 8501:8501 polyp_segmentation_app
 
 ✅ Techniques Used
