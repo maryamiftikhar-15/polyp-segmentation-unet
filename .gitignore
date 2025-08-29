@@ -1,0 +1,12 @@
+# Virtual environment
+myenv/
+
+# Model files (don’t upload large models)
+model/*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store

@@ -1,0 +1,11 @@
+streamlit>=1.28.0
+tensorflow==2.18.0
+opencv-python
+albumentations
+matplotlib
+scikit-learn
+pillow
+numpy
+pandas
+typing_extensions>=4.5.0
+altair==4.2.2
